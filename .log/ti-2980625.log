@@ -1,0 +1,147 @@
+[10:36:46.185] Global cache location '/home/imsight/.cache/typescript/4.0', safe file path '/home/imsight/.node_modules/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/imsight/.node_modules/lib/node_modules/typescript/lib/typesMap.json
+[10:36:46.186] Processing cache location '/home/imsight/.cache/typescript/4.0'
+[10:36:46.186] Trying to find '/home/imsight/.cache/typescript/4.0/package.json'...
+[10:36:46.274] Loaded content of '/home/imsight/.cache/typescript/4.0/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.512"},"devDependencies":{"@types/accepts":"^1.3.5","@types/ajv-keywords":"^3.4.0","@types/autoprefixer":"^9.7.2","@types/babel__code-frame":"^7.0.1","@types/backo2":"^1.0.1","@types/balanced-match":"^1.0.1","@types/browserslist":"^4.8.0","@types/bytes":"^3.1.0","@types/caniuse-lite":"^1.0.0","@types/case-sensitive-paths-webpack-plugin":"^2.1.4","@types/clean-css":"^4.2.2","@types/component-emitter":"^1.2.9","@types/compressible":"^2.0.0","@types/compression":"^1.7.0","@types/connect-history-api-fallback":"^1.3.3","@types/cross-spawn":"^6.0.2","@types/cssnano":"^4.0.0","@types/debug":"^4.1.5","@types/define-properties":"^1.1.3","@types/echarts":"^4.6.5","@types/engine.io-client":"^3.1.4","@types/enhanced-resolve":"^3.0.6","@types/escape-html":"^1.0.0","@types/express":"^4.17.8","@types/fs-extra":"^9.0.1","@types/he":"^1.1.1","@types/html-minifier":"^4.0.0","@types/html-webpack-plugin":"^3.2.3","@types/http-errors":"^1.8.0","@types/http-proxy-middleware":"^0.19.3","@types/humps":"^2.0.0","@types/inquirer":"^7.3.1","@types/ip":"^1.1.0","@types/isarray":"^2.0.0","@types/js-cookie":"^2.2.6","@types/jsdom":"^16.2.4","@types/json-parse-better-errors":"^1.0.0","@types/jwt-decode":"^2.2.1","@types/loader-utils":"^2.0.1","@types/memory-fs":"^0.3.2","@types/micromatch":"^4.0.1","@types/mime":"^2.0.3","@types/mime-types":"^2.1.0","@types/mini-css-extract-plugin":"^0.9.1","@types/mkdirp":"^1.0.1","@types/on-headers":"^1.0.0","@types/optimize-css-assets-webpack-plugin":"^5.0.1","@types/parseurl":"^1.3.1","@types/pify":"^3.0.2","@types/pnpapi":"0.0.0","@types/postcss-custom-properties":"^9.1.0","@types/postcss-flexbugs-fixes":"^4.2.0","@types/postcss-focus-within":"^4.0.0","@types/postcss-preset-env":"^6.7.0","@types/postcss-safe-parser":"^4.0.0","@types/progress":"^2.0.3","@types/react-dev-utils":"^9.0.4","@types/react-dom":"^16.9.8","@types/react-is":"^16.7.1","@types/react-redux":"^7.1.9","@types/react-router":"^5.1.8","@types/react-router-dom":"^5.1.5","@types/read":"0.0.28","@types/relateurl":"^0.2.28","@types/resolve":"^1.17.1","@types/rimraf":"^3.0.0","@types/semver":"^7.3.4","@types/serialize-javascript":"^4.0.0","@types/serve-index":"^1.7.30","@types/shell-quote":"^1.7.0","@types/socket.io-client":"^1.4.33","@types/socket.io-parser":"^2.2.1","@types/sockjs":"^0.3.32","@types/spdy":"^3.4.4","@types/tapable":"^1.0.6","@types/terser-webpack-plugin":"^4.2.0","@types/uglify-js":"^3.9.3","@types/util.promisify":"^1.0.4","@types/uuid":"^8.3.0","@types/vary":"^1.1.0","@types/webpack":"^4.41.22","@types/webpack-dev-middleware":"^3.7.2","@types/webpack-dev-server":"^3.11.0","@types/webpack-manifest-plugin":"^2.1.0","@types/webpack-sources":"^1.4.2","@types/workbox-build":"^5.0.0","@types/workbox-webpack-plugin":"^5.1.4","@types/xmldom":"^0.1.30","@types/zrender":"^4.0.0"}}
+[10:36:46.274] Loaded content of '/home/imsight/.cache/typescript/4.0/package-lock.json'
+[10:36:46.338] Adding entry into typings cache: 'accepts' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/accepts/index.d.ts'
+[10:36:46.384] Adding entry into typings cache: 'ajv-keywords' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/ajv-keywords/index.d.ts'
+[10:36:46.426] Adding entry into typings cache: 'autoprefixer' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/autoprefixer/index.d.ts'
+[10:36:46.452] Adding entry into typings cache: 'babel__code-frame' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/babel__code-frame/index.d.ts'
+[10:36:46.475] Adding entry into typings cache: 'backo2' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/backo2/index.d.ts'
+[10:36:46.478] Adding entry into typings cache: 'balanced-match' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/balanced-match/index.d.ts'
+[10:36:46.480] Adding entry into typings cache: 'browserslist' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/browserslist/index.d.ts'
+[10:36:46.482] Adding entry into typings cache: 'bytes' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/bytes/index.d.ts'
+[10:36:46.484] Adding entry into typings cache: 'caniuse-lite' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/caniuse-lite/index.d.ts'
+[10:36:46.507] Adding entry into typings cache: 'case-sensitive-paths-webpack-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/case-sensitive-paths-webpack-plugin/index.d.ts'
+[10:36:46.517] Adding entry into typings cache: 'clean-css' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/clean-css/index.d.ts'
+[10:36:46.552] Adding entry into typings cache: 'component-emitter' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/component-emitter/index.d.ts'
+[10:36:46.604] Adding entry into typings cache: 'compressible' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/compressible/index.d.ts'
+[10:36:46.649] Adding entry into typings cache: 'compression' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/compression/index.d.ts'
+[10:36:46.651] Adding entry into typings cache: 'connect-history-api-fallback' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/connect-history-api-fallback/index.d.ts'
+[10:36:46.654] Adding entry into typings cache: 'cross-spawn' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/cross-spawn/index.d.ts'
+[10:36:46.665] Adding entry into typings cache: 'cssnano' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/cssnano/index.d.ts'
+[10:36:46.672] Adding entry into typings cache: 'debug' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/debug/index.d.ts'
+[10:36:46.676] Adding entry into typings cache: 'define-properties' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/define-properties/index.d.ts'
+[10:36:46.691] Adding entry into typings cache: 'echarts' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/echarts/index.d.ts'
+[10:36:46.706] Adding entry into typings cache: 'engine.io-client' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/engine.io-client/index.d.ts'
+[10:36:46.708] Adding entry into typings cache: 'enhanced-resolve' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/enhanced-resolve/index.d.ts'
+[10:36:46.711] Adding entry into typings cache: 'escape-html' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/escape-html/index.d.ts'
+[10:36:46.714] Adding entry into typings cache: 'express' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/express/index.d.ts'
+[10:36:46.718] Adding entry into typings cache: 'fs-extra' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/fs-extra/index.d.ts'
+[10:36:46.730] Adding entry into typings cache: 'he' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/he/index.d.ts'
+[10:36:46.733] Adding entry into typings cache: 'html-minifier' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/html-minifier/index.d.ts'
+[10:36:46.736] Adding entry into typings cache: 'html-webpack-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/html-webpack-plugin/index.d.ts'
+[10:36:46.740] Adding entry into typings cache: 'http-errors' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/http-errors/index.d.ts'
+[10:36:46.742] Adding entry into typings cache: 'http-proxy-middleware' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/http-proxy-middleware/index.d.ts'
+[10:36:46.753] Adding entry into typings cache: 'humps' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/humps/index.d.ts'
+[10:36:46.758] Adding entry into typings cache: 'inquirer' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/inquirer/index.d.ts'
+[10:36:46.760] Adding entry into typings cache: 'ip' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/ip/index.d.ts'
+[10:36:46.776] Adding entry into typings cache: 'isarray' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/isarray/index.d.ts'
+[10:36:46.779] Adding entry into typings cache: 'js-cookie' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/js-cookie/index.d.ts'
+[10:36:46.796] Adding entry into typings cache: 'jsdom' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/jsdom/index.d.ts'
+[10:36:46.810] Adding entry into typings cache: 'json-parse-better-errors' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/json-parse-better-errors/index.d.ts'
+[10:36:46.826] Adding entry into typings cache: 'jwt-decode' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/jwt-decode/index.d.ts'
+[10:36:46.832] Adding entry into typings cache: 'loader-utils' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/loader-utils/index.d.ts'
+[10:36:46.841] Adding entry into typings cache: 'memory-fs' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/memory-fs/index.d.ts'
+[10:36:46.846] Adding entry into typings cache: 'micromatch' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/micromatch/index.d.ts'
+[10:36:46.857] Adding entry into typings cache: 'mime' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/mime/index.d.ts'
+[10:36:46.886] Adding entry into typings cache: 'mime-types' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/mime-types/index.d.ts'
+[10:36:46.902] Adding entry into typings cache: 'mini-css-extract-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/mini-css-extract-plugin/index.d.ts'
+[10:36:46.906] Adding entry into typings cache: 'mkdirp' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/mkdirp/index.d.ts'
+[10:36:46.909] Adding entry into typings cache: 'on-headers' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/on-headers/index.d.ts'
+[10:36:46.935] Adding entry into typings cache: 'optimize-css-assets-webpack-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts'
+[10:36:46.940] Adding entry into typings cache: 'parseurl' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/parseurl/index.d.ts'
+[10:36:46.945] Adding entry into typings cache: 'pify' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/pify/index.d.ts'
+[10:36:46.950] Adding entry into typings cache: 'pnpapi' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/pnpapi/index.d.ts'
+[10:36:46.952] Adding entry into typings cache: 'postcss-custom-properties' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/postcss-custom-properties/index.d.ts'
+[10:36:46.954] Adding entry into typings cache: 'postcss-flexbugs-fixes' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/postcss-flexbugs-fixes/index.d.ts'
+[10:36:46.956] Adding entry into typings cache: 'postcss-focus-within' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/postcss-focus-within/index.d.ts'
+[10:36:46.958] Adding entry into typings cache: 'postcss-preset-env' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/postcss-preset-env/index.d.ts'
+[10:36:46.959] Adding entry into typings cache: 'postcss-safe-parser' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/postcss-safe-parser/index.d.ts'
+[10:36:46.969] Adding entry into typings cache: 'progress' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/progress/index.d.ts'
+[10:36:46.971] Adding entry into typings cache: 'react-dev-utils' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-dev-utils/index.d.ts'
+[10:36:46.975] Adding entry into typings cache: 'react-dom' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-dom/index.d.ts'
+[10:36:46.998] Adding entry into typings cache: 'react-is' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-is/index.d.ts'
+[10:36:47.0] Adding entry into typings cache: 'react-redux' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-redux/index.d.ts'
+[10:36:47.1] Adding entry into typings cache: 'react-router' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-router/index.d.ts'
+[10:36:47.3] Adding entry into typings cache: 'react-router-dom' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/react-router-dom/index.d.ts'
+[10:36:47.12] Adding entry into typings cache: 'read' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/read/index.d.ts'
+[10:36:47.13] Adding entry into typings cache: 'relateurl' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/relateurl/index.d.ts'
+[10:36:47.16] Adding entry into typings cache: 'resolve' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/resolve/index.d.ts'
+[10:36:47.18] Adding entry into typings cache: 'rimraf' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/rimraf/index.d.ts'
+[10:36:47.20] Adding entry into typings cache: 'semver' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/semver/index.d.ts'
+[10:36:47.22] Adding entry into typings cache: 'serialize-javascript' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/serialize-javascript/index.d.ts'
+[10:36:47.24] Adding entry into typings cache: 'serve-index' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/serve-index/index.d.ts'
+[10:36:47.25] Adding entry into typings cache: 'shell-quote' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/shell-quote/index.d.ts'
+[10:36:47.26] Adding entry into typings cache: 'socket.io-client' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/socket.io-client/index.d.ts'
+[10:36:47.27] Adding entry into typings cache: 'socket.io-parser' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/socket.io-parser/index.d.ts'
+[10:36:47.27] Adding entry into typings cache: 'sockjs' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/sockjs/index.d.ts'
+[10:36:47.28] Adding entry into typings cache: 'spdy' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/spdy/index.d.ts'
+[10:36:47.30] Adding entry into typings cache: 'tapable' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/tapable/index.d.ts'
+[10:36:47.31] Adding entry into typings cache: 'terser-webpack-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/terser-webpack-plugin/index.d.ts'
+[10:36:47.33] Adding entry into typings cache: 'uglify-js' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/uglify-js/index.d.ts'
+[10:36:47.34] Adding entry into typings cache: 'util.promisify' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/util.promisify/index.d.ts'
+[10:36:47.36] Adding entry into typings cache: 'uuid' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/uuid/index.d.ts'
+[10:36:47.37] Adding entry into typings cache: 'vary' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/vary/index.d.ts'
+[10:36:47.38] Adding entry into typings cache: 'webpack' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/webpack/index.d.ts'
+[10:36:47.39] Adding entry into typings cache: 'webpack-dev-middleware' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/webpack-dev-middleware/index.d.ts'
+[10:36:47.46] Adding entry into typings cache: 'webpack-dev-server' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/webpack-dev-server/index.d.ts'
+[10:36:47.47] Adding entry into typings cache: 'webpack-manifest-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/webpack-manifest-plugin/index.d.ts'
+[10:36:47.48] Adding entry into typings cache: 'webpack-sources' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/webpack-sources/index.d.ts'
+[10:36:47.49] Adding entry into typings cache: 'workbox-build' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/workbox-build/index.d.ts'
+[10:36:47.49] Adding entry into typings cache: 'workbox-webpack-plugin' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/workbox-webpack-plugin/index.d.ts'
+[10:36:47.50] Adding entry into typings cache: 'xmldom' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/xmldom/index.d.ts'
+[10:36:47.70] Adding entry into typings cache: 'zrender' => '/home/imsight/.cache/typescript/4.0/node_modules/@types/zrender/index.d.ts'
+[10:36:47.70] Finished processing cache location '/home/imsight/.cache/typescript/4.0'
+[10:36:47.71] Process id: 2980632
+[10:36:47.71] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[10:36:47.71] validateDefaultNpmLocation: false
+[10:36:47.72] Npm config file: /home/imsight/.cache/typescript/4.0/package.json
+[10:36:47.72] Updating types-registry npm package...
+[10:36:47.72] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[10:36:55.262]     Succeeded. stdout:
+    + types-registry@0.1.512
+    updated 1 package in 2.716s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+
+[10:36:55.262] Updated types-registry npm package
+[10:36:59.586] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/reducer.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/App.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/useOpenSeaDragon.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["openseadragon-fabricjs-overlay"],"projectRootPath":"/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks","kind":"discover"}
+[10:36:59.598] Loaded safelist from types map file '/home/imsight/.node_modules/lib/node_modules/typescript/lib/typesMap.json'
+[10:36:59.599] Explicitly included types: []
+[10:36:59.599] Inferred typings from unresolved imports: ["openseadragon-fabricjs-overlay"]
+[10:36:59.600] Result: {"cachedTypingPaths":[],"newTypingNames":["openseadragon-fabricjs-overlay"],"filesToWatch":["/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/node_modules"]}
+[10:36:59.600] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["openseadragon-fabricjs-overlay"],"filesToWatch":["/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/node_modules"]}
+[10:36:59.600] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/bower_components
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/node_modules
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/bower_components
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/node_modules
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/bower_components
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/node_modules
+[10:36:59.602] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components
+[10:36:59.603] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules
+[10:36:59.603] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/bower_components
+[10:36:59.603] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/node_modules
+[10:36:59.603] Installing typings ["openseadragon-fabricjs-overlay"]
+[10:36:59.603] 'openseadragon-fabricjs-overlay':: Entry for package 'openseadragon-fabricjs-overlay' does not exist in local types registry - skipping...
+[10:36:59.603] All typings are known to be missing or invalid - no need to install more typings
+[10:36:59.603] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["openseadragon-fabricjs-overlay"],"kind":"action::set"}
+[10:36:59.604] Response has been sent.
+[10:37:20.359] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/imsight/.node_modules/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/useOpenSeaDragon.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/index.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/reducer.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/App.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/serviceWorker.js","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["openseadragon-fabricjs-overlay"],"projectRootPath":"/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src","kind":"discover"}
+[10:37:20.359] Explicitly included types: []
+[10:37:20.359] Inferred typings from unresolved imports: ["openseadragon-fabricjs-overlay"]
+[10:37:20.360] Result: {"cachedTypingPaths":[],"newTypingNames":["openseadragon-fabricjs-overlay"],"filesToWatch":["/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules"]}
+[10:37:20.360] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["openseadragon-fabricjs-overlay"],"filesToWatch":["/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/navigator/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/toolbar/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components/viewer/node_modules","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components","/home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules"]}
+[10:37:20.360] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/hooks
+[10:37:20.360] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/components
+[10:37:20.361] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/bower_components
+[10:37:20.361] DirectoryWatcher:: Added:: WatchInfo: /home/imsight/gits/react-openseadragon-viewer-with-fabric-overlay/src/node_modules
+[10:37:20.361] Installing typings ["openseadragon-fabricjs-overlay"]
+[10:37:20.361] 'openseadragon-fabricjs-overlay':: Entry for package 'openseadragon-fabricjs-overlay' does not exist in local types registry - skipping...
+[10:37:20.361] All typings are known to be missing or invalid - no need to install more typings
+[10:37:20.361] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["openseadragon-fabricjs-overlay"],"kind":"action::set"}
+[10:37:20.361] Response has been sent.
